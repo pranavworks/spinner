@@ -1,2 +1,2 @@
-# spinner
-All Azure Related ARM Templates
+# Spinner Repo
+Azure ARM templates
