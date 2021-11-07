@@ -1,0 +1,5 @@
+TF_CODE/AzureCLI.msi
+TF_CODE/tf-docker/.terraform.lock.hcl
+TF_CODE/tf-docker/terraform.tfstate.backup
+TF_CODE/tf-docker/terraform.tfstate
+TF_CODE/tf-docker/.terraform/*
